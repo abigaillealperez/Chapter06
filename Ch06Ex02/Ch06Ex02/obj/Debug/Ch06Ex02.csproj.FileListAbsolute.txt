@@ -1,0 +1,6 @@
+C:\01ALP\Ch06Ex02\Ch06Ex02\bin\Debug\Ch06Ex02.exe.config
+C:\01ALP\Ch06Ex02\Ch06Ex02\bin\Debug\Ch06Ex02.exe
+C:\01ALP\Ch06Ex02\Ch06Ex02\bin\Debug\Ch06Ex02.pdb
+C:\01ALP\Ch06Ex02\Ch06Ex02\obj\Debug\Ch06Ex02.csprojAssemblyReference.cache
+C:\01ALP\Ch06Ex02\Ch06Ex02\obj\Debug\Ch06Ex02.exe
+C:\01ALP\Ch06Ex02\Ch06Ex02\obj\Debug\Ch06Ex02.pdb
